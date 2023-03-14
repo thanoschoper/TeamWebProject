@@ -22,3 +22,32 @@ nav {
     -ms-box-shadow: 0px 0px 5px #000000;
 
 }
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    box-shadow: 0px 0px 5px #000000;
+    -moz-box-shadow: 0px 0px 5px #000000;
+    -webkit-box-shadow: 0px 0px 5px #000000;
+    -khtml-box-shadow: 0px 0px 5px #000000;
+    -o-box-shadow: 0px 0px 5px #000000;
+    -ms-box-shadow: 0px 0px 5px #000000;
+}
+.row{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+}
+.col-12{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+}
