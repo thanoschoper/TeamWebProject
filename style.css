@@ -118,3 +118,39 @@ p {
   color: #ffffff;
   background-color: #000000;
 }
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+.Muhammad {
+  height: 500px;
+  width: 33.33333%;
+  text-align: center;
+}
+.Muhammad img {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+.liam {
+  height: 500px;
+  width: 33.33333%; 
+  text-align: center;
+}
+.liam img {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+.Nathan {
+  height: 500px;
+  width: 33.33333%;
+  text-align: center;
+}
+.Nathan img {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
