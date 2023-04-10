@@ -131,8 +131,8 @@ li {
   -khtml-border-radius: 5px;
   -o-border-radius: 5px;
   -ms-border-radius: 5px;
-  color: black;
-  background-color: #00aeffc9;
+  color: rgb(255, 255, 255);
+  background-color: #00aeffdc;
 }
 
 h2 {
