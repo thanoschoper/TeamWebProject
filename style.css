@@ -93,6 +93,10 @@ body {
   background-image: url("/images/bright-colorful-hot-air-balloons-flying-in-the-blue-sky-behind-the-sun-free-video.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 p {
